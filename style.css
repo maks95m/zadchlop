@@ -1,0 +1,24 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #007bff;
+border: 10px solid;
+border-image: linear-gradient(to right, red, yellow, green, blue, purple) 1; 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 900px;}
+.container {
+text-align: center;
+width: 500px; 
+padding: 20px;
+background-color: white; 
+border: 6px solid red;
+box-shadow: 0 0 0 6px white; }
+img {
+max-width: 100%;
+height: auto;}
+.text-box {
+font-weight: bold;
+font-style: italic;
+margin-top: 10px;}
